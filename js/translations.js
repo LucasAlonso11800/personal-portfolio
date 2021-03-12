@@ -106,5 +106,5 @@ german.addEventListener('click', () => {
     contactTitle.textContent = 'Kontaktieren wir';
     contactText.textContent = 'Haben meine Projekte dir gefallen?';
     contactText2.textContent = 'Möchtest du, dass wir zusammen arbeiten?';
-    contactText3.textContent = 'Ruf mich and, schick mir eine Nachricht oder eine Mail und wir können darüber sprechen.';
+    contactText3.textContent = 'Ruf mich an, schick mir eine Nachricht oder eine Mail und wir können darüber sprechen.';
 });
